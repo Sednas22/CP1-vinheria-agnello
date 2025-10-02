@@ -19,7 +19,7 @@ Com a pandemia, a loja física foi impactada e surgiu a necessidade de criar um 
     <b><li>index.html</b> – Página inicial com apresentação da vinheria e links de navegação.</li>
     <li>src/css/style.css</li>
     <li>src/assets/imgs/11...</li>
-    <li><b>src/pages/historia.html</li>b> – Página "Sobre nós", contando a trajetória da vinheria e seus diferenciais.</li>
+    <li><b>src/pages/historia.html</b> – Página "Sobre nós", contando a trajetória da vinheria e seus diferenciais.</li>
     <li><b>src/pages/produtos.html</b> – Catálogo de vinhos em tabela, com imagens e botões de compra.</li>
     <li><b>src/pages/armazenagem.html</b> – Página de dicas e cuidados para armazenamento de vinhos, com imagem e vídeo explicativo.</li>
     <li><b>src/pages/contato.html</b> – Formulário de contato com campos de nome, e-mail e mensagem, além de link para redes sociais.</li>
@@ -50,5 +50,6 @@ A navegação é funcional entre todas as páginas, o código está indentado e 
 O projeto foi publicado no GitHub Pages para visualização online. <br>
 🔗 Link: https://sednas22.github.io/vinharia-agnello/
 </p>
+
 
 
