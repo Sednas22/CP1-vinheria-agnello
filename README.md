@@ -48,8 +48,9 @@ A navegação é funcional entre todas as páginas, o código está indentado e 
 
 <h3>Publicação:</h3> <p>
 O projeto foi publicado no GitHub Pages para visualização online. <br>
-🔗 Link: https://sednas22.github.io/vinharia-agnello/
+🔗 Link: https://sednas22.github.io/CP1-vinheria-agnello/
 </p>
+
 
 
 
